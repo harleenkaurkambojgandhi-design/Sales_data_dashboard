@@ -107,5 +107,10 @@ Brand-wise pie chart and cost area chart
 Covers all major Indian states with regional sales breakdown
 
 
+## 🔗 Live Dashboard
+👉 [Click here to view the dashboard](https://chitkara-my.sharepoint.com/:u:/g/personal/harleen2006_be23_chitkara_edu_in/IQBuD8ViqF1VT7kos5KtO-kXAWwAToBZAwZxlxUcoyPz_Ds?e=NxSf24)
+
+
+
 
 Made with ❤️ using Power BI
