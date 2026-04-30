@@ -1,4 +1,4 @@
-📊 Sales Dashboard of Year 2024–2025
+📊 #Sales Dashboard of Year 2024–2025
 
 An interactive Power BI dashboard tracking computer hardware sales across India for FY 2024–2025, with supervisor-level filtering across 13 product categories, 10+ brands, and all Indian states.
 
