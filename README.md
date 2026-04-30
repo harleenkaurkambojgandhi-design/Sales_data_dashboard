@@ -105,3 +105,7 @@ KPI cards updating dynamically on filter change
 Category-wise bar chart, state-wise stacked area chart
 Brand-wise pie chart and cost area chart
 Covers all major Indian states with regional sales breakdown
+
+
+
+Made with ❤️ using Power BI
